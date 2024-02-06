@@ -1,0 +1,4 @@
+python-string-utils source: file-without-copyright-information
+python-string-utils source: no-debian-changes
+python-string-utils source: source-contains-prebuilt-windows-binary
+python-string-utils source: source-package-encodes-python-version
