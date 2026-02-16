@@ -23,7 +23,6 @@ setuptools.setup(
     ],
     keywords='string str utilities validation compression development',
     packages=['string_utils'],
-    data_files=[('README', ['README.md'])],
     python_requires='>=3.5',
-    setup_requires=['wheel'],
+    setup_requires=[],
 )

@@ -243,7 +243,7 @@ prettify(' unprettified string ,, like this one,will be"prettified" .it\' s awes
 
 **asciify**: Converts all non-ascii chars contained in a string into the closest possible ascii representation
 ~~~~
-asciify('èéùúòóäåëýñÅÀÁÇÌÍÑÓË') 
+asciify('eeuuooaaeynAAACIINOE') 
 # returns 'eeuuooaaeynAAACIINOE' (string is deliberately dumb in order to show char conversion)
 ~~~~
 
